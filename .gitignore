@@ -1,0 +1,11 @@
+/kafka-producer-twitter/src/main/resources/twitter.properties
+**/.idea
+/shelf/
+/workspace.xml
+*.class
+.idea/
+*.iml
+*.logs
+/kafka-producer-twitter/target/
+/kafka-basics/target/
+/target/
