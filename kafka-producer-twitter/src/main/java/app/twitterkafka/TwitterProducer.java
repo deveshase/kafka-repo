@@ -42,7 +42,7 @@ public class TwitterProducer {
 
         Properties prop = new Properties();
         if (twitterProperties == null) {
-            logger.error("Sorry, unable to find config.properties");
+            logger.error("Sorry, unable to find properties");
             return;
         }
 
